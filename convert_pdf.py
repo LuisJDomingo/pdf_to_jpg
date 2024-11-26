@@ -12,4 +12,4 @@ def pdf_to_jpg(pdf_path, output_folder):
     pdf_document.close()  
 
 
-pdf_to_jpg
+pdf_to_jpg(r"C:\Users\luisd\Desktop\certificaciones\Coursera 5ATQCWX56RH2 linux y sql.pdf",r"C:\Users\luisd\Desktop\certificaciones\")
